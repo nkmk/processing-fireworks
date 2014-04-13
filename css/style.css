@@ -1,0 +1,33 @@
+body {
+    width:820px;
+    margin:0px auto;
+
+    color: white;
+    background: black;
+}
+
+h1{
+	font-size: 48px;
+}
+
+canvas{
+	margin:10px auto;
+	border: solid 2px white;
+}
+
+footer{
+	color: white;
+	text-align: right;
+}
+
+a:link {
+	color:white;
+} 
+
+a:visited {
+	color:white;
+} 
+a:hover {
+	color:black;
+	background:white;
+} 
